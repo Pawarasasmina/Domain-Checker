@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "name": "Administrator",
+  "email": "admin@example.com",
+  "password": "$2a$10$6hFbHAzZh34Ma1kx0yuZ.OgSTdK.ui9lgxhIQNb.vVEAyXu1Y9bua",
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-02-07T07:17:55.086Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-08T03:55:34.352Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2026-02-08T03:55:34.346Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6986ecf3afd1f9abddbfd424"
+  },
+  "name": "sample",
+  "email": "sample@example.com",
+  "password": "$2a$10$E1iyeSy2VysAZiiucfZPg.ZiwQm9n4aS17fdyUKiI0MmG0uOKpX32",
+  "role": "user",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "createdAt": {
+    "$date": "2026-02-07T07:42:43.821Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-08T03:53:54.104Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2026-02-08T03:53:54.103Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69871458a5233dae96a41769"
+  },
+  "name": "Manager",
+  "email": "manager@gmail.com",
+  "password": "$2a$10$szvyxZImRaOViWHuBsg3AOznAy8azND1T9NpLrEOQ4M6Tv3uliuuC",
+  "role": "manager",
+  "isActive": true,
+  "createdBy": null,
+  "createdAt": {
+    "$date": "2026-02-07T10:30:48.913Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-08T02:49:07.362Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2026-02-08T02:49:07.356Z"
+  }
+}]

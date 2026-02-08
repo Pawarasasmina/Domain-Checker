@@ -48,8 +48,10 @@ const Domains = () => {
       socket.off('domain:updated');
       socket.off('domain:deleted');
       socket.off('domain:nawala-updated');
+      socket.off('domains:bulk-nawala-updated');
       socket.off('domains:bulk-deleted');
       socket.off('domains:bulk-imported');
+      socket.off('domains:bulk-check-complete');
 
       // Set up new listeners
       socket.on('domain:created', (domain) => {
@@ -84,6 +86,37 @@ const Domains = () => {
         }
       });
 
+      // Handle batched updates efficiently
+      socket.on('domains:bulk-nawala-updated', ({ updates, count }) => {
+        setDomains(prev => {
+          const updatedDomains = [...prev];
+          updates.forEach(update => {
+            const index = updatedDomains.findIndex(d => d._id === update.domainId);
+            if (index !== -1) {
+              updatedDomains[index] = { ...updatedDomains[index], nawala: update.nawala };
+            }
+          });
+          return updatedDomains;
+        });
+        
+        // Show individual toast for each newly blocked domain
+        const blockedDomains = updates.filter(u => u.nawala.status === 'ada');
+        blockedDomains.forEach(update => {
+          toast.error(`Domain blocked: ${update.domain}`, {
+            duration: 4000,
+            style: {
+              background: '#fee',
+              color: '#c00'
+            }
+          });
+        });
+      });
+
+      socket.on('domains:bulk-check-complete', ({ success, failed }) => {
+        fetchDomains();
+        toast.success(`Bulk check complete: ${success} updated`);
+      });
+
       socket.on('domains:bulk-deleted', ({ count }) => {
         fetchDomains();
         toast.success(`${count} blocked domains deleted`);
@@ -103,8 +136,10 @@ const Domains = () => {
         socket.off('domain:updated');
         socket.off('domain:deleted');
         socket.off('domain:nawala-updated');
+        socket.off('domains:bulk-nawala-updated');
         socket.off('domains:bulk-deleted');
         socket.off('domains:bulk-imported');
+        socket.off('domains:bulk-check-complete');
       }
     };
   }, []);

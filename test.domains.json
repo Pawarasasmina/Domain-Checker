@@ -1,0 +1,9784 @@
+[{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ad9"
+  },
+  "domain": "a200m-amp.rest",
+  "brand": {
+    "$oid": "6986f9d88ef2b6c60688daa9"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:42:22.700Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.081Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:42:22.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ada"
+  },
+  "domain": "a200m-vip.beauty",
+  "brand": {
+    "$oid": "6986f9d88ef2b6c60688daa9"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:43:01.207Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.084Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:43:01.210Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9adb"
+  },
+  "domain": "a200m-mantap.art",
+  "brand": {
+    "$oid": "6986f9d88ef2b6c60688daa9"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "ada",
+    "blockedId": "scan_1770460954276",
+    "lastChecked": {
+      "$date": "2026-02-07T10:42:34.276Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.084Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:42:34.283Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9adc"
+  },
+  "domain": "asia100-app.hair",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "ADS CT / ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:46:47.159Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.084Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:46:47.161Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9add"
+  },
+  "domain": "a200mlivertp.monster",
+  "brand": {
+    "$oid": "6986f9d88ef2b6c60688daa9"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:43:12.282Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.084Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:43:12.284Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ade"
+  },
+  "domain": "asia100-app.beauty",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "ADS CT, ADS DEDY, ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:46:36.248Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.085Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:46:36.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9adf"
+  },
+  "domain": "asia100.digital",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "ADS DEDY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:46:59.210Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.085Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:46:59.212Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ae0"
+  },
+  "domain": "asia100vip.hair",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "ADS DEDY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:47:21.694Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.085Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:47:21.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ae1"
+  },
+  "domain": "asia100vip.website",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:47:43.729Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.085Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:47:43.731Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ae2"
+  },
+  "domain": "asia200.digital",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "ADS DEDY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:47:58.361Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.086Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:47:58.362Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ae3"
+  },
+  "domain": "asia100.guru",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:47:10.278Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.086Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:47:10.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ae4"
+  },
+  "domain": "asia200.today",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:48:25.601Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.086Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:48:25.602Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ae5"
+  },
+  "domain": "asia200vip.cloud",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "ADS KO DEDY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:48:37.420Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.086Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:48:37.421Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ae6"
+  },
+  "domain": "asia200.shop",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:48:10.521Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.086Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:48:10.523Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ae7"
+  },
+  "domain": "asia200vip.mom",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "ADS KO DEDY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "ada",
+    "blockedId": "scan_1770461330195",
+    "lastChecked": {
+      "$date": "2026-02-07T10:48:50.195Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.086Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:48:50.197Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ae8"
+  },
+  "domain": "asia300.website",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdad"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:49:41.734Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.086Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:49:41.735Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9ae9"
+  },
+  "domain": "asia200vip.online",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:49:02.098Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:49:02.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9aea"
+  },
+  "domain": "asia200vip.skin",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "ADS KO DEDY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "ada",
+    "blockedId": "scan_1770461355883",
+    "lastChecked": {
+      "$date": "2026-02-07T10:49:15.883Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:49:15.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9aeb"
+  },
+  "domain": "autoqris77-top.monster",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdbd"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "ada",
+    "blockedId": "scan_1770461392861",
+    "lastChecked": {
+      "$date": "2026-02-07T10:49:52.861Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:49:52.863Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9aec"
+  },
+  "domain": "asia200vip.today",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:49:30.858Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:49:30.859Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9aed"
+  },
+  "domain": "b200m-join.world",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd88"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:50:40.674Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:50:40.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9aee"
+  },
+  "domain": "b200m-amp.online",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd88"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:50:12.940Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:50:12.941Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9aef"
+  },
+  "domain": "bonaslot-vip.beauty",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc5"
+  },
+  "note": "ADS CR/ EWN",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:53:25.342Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:53:25.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9af0"
+  },
+  "domain": "b200m-join.online",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd88"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:50:24.848Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:50:24.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9af1"
+  },
+  "domain": "d200m-oke.online",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd8c"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9af2"
+  },
+  "domain": "livertpb200m.boats",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd88"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9af3"
+  },
+  "domain": "depo89-ok.online",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc3"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.087Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9af4"
+  },
+  "domain": "e200m-oke.monster",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd8e"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.088Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.088Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9af5"
+  },
+  "domain": "bns-amp.skin",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc5"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:51:07.869Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.088Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:51:07.870Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9af6"
+  },
+  "domain": "bonaslot-2025.mom",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc5"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:52:51.434Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.088Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:52:51.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9af7"
+  },
+  "domain": "f200m-vip.digital",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "ADS DD , ADS CR , ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.088Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.088Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9af8"
+  },
+  "domain": "f200m-vip.motorcycles",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.089Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9af9"
+  },
+  "domain": "bonaslot-lifertp.rest",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc5"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "ada",
+    "blockedId": "scan_1770461586871",
+    "lastChecked": {
+      "$date": "2026-02-07T10:53:06.871Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.089Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:53:06.874Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9afa"
+  },
+  "domain": "f200m-vip.online",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.089Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9afb"
+  },
+  "domain": "c200m-amp.sbs",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd8a"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.089Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9afc"
+  },
+  "domain": "fufuslot-cair.live",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdbf"
+  },
+  "note": "ADS DD , ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.089Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9afd"
+  },
+  "domain": "c200m-huat.guru",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd8a"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9afe"
+  },
+  "domain": "c200m-rtphoki.boats",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd8a"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9aff"
+  },
+  "domain": "j200m2025.love",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd99"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b00"
+  },
+  "domain": "jos007-joss.makeup",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc1"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b01"
+  },
+  "domain": "d200m-amp.bond",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd8c"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b02"
+  },
+  "domain": "madura88gas.beauty",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc7"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b03"
+  },
+  "domain": "d200m-oke.cfd",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd8c"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b04"
+  },
+  "domain": "d200m-rtp.site",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd8c"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b05"
+  },
+  "domain": "nusa211win.world",
+  "brand": {
+    "$oid": "6986f98cba2073a29cb7fdc9"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b06"
+  },
+  "domain": "p200m-spin.bar",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd97"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b07"
+  },
+  "domain": "d89-amp.boats",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc3"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b08"
+  },
+  "domain": "paduka500-vip.site",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdbb"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b09"
+  },
+  "domain": "depo89-ok.baby",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc3"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b0a"
+  },
+  "domain": "raja-cepak.makeup",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb7"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b0c"
+  },
+  "domain": "rtpdepo89-life.boats",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc3"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.254Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b0d"
+  },
+  "domain": "e200m-amp.click",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd8e"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.254Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b0e"
+  },
+  "domain": "e200m-oke.tattoo",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd8e"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.254Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b0f"
+  },
+  "domain": "tiket100login.click",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.254Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b10"
+  },
+  "domain": "livertpe200m.click",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd8e"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.254Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b11"
+  },
+  "domain": "tiket100login.guru",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b12"
+  },
+  "domain": "tiket100login.icu",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b13"
+  },
+  "domain": "f200mrtponline.boats",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b14"
+  },
+  "domain": "tiket100login.life",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "ADS DD",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b15"
+  },
+  "domain": "f200m-hp.click",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b16"
+  },
+  "domain": "tiket200.biz",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b17"
+  },
+  "domain": "f200m-huat.hair",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b18"
+  },
+  "domain": "ffs-hp.sbs",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdbf"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b19"
+  },
+  "domain": "tiket200.online",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "ADS DEDY 2 + cloaking  (MONEYSITE)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b1a"
+  },
+  "domain": "fufuslot.ac",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdbf"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b1b"
+  },
+  "domain": "tiket200.today",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "Ads Dedy",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b1c"
+  },
+  "domain": "g200m-amp.shop",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd92"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b1d"
+  },
+  "domain": "tiket200oke.cfd",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "Ads Dedy",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b1e"
+  },
+  "domain": "g200m-cuan.cyou",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd92"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b1f"
+  },
+  "domain": "tiket200oke.digital",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b20"
+  },
+  "domain": "j200m-amp.cfd",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd99"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b21"
+  },
+  "domain": "tiket200oke.hair",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "ADS ko dedy",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b22"
+  },
+  "domain": "j200m-spin.xyz",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd99"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b23"
+  },
+  "domain": "tiket200oke.mom",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "ADS DEDY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b24"
+  },
+  "domain": "tiket200oke.monster",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "Ads Dedy",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b25"
+  },
+  "domain": "fufuslotrtplive.rest",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdbf"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b26"
+  },
+  "domain": "tiket200oke.rest",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "Ads Dedy",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b27"
+  },
+  "domain": "tiket200oke.site",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b28"
+  },
+  "domain": "tiket300.icu",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b29"
+  },
+  "domain": "rtpg200mhoki.rest",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd92"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b2a"
+  },
+  "domain": "tiket300.yachts",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "ADS CT ( Mobile )",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b2b"
+  },
+  "domain": "tiket300slot.click",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b2c"
+  },
+  "domain": "tiket300slot.online",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b2d"
+  },
+  "domain": "tiket300slot.pics",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "ADS CT ( Mobile )",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b2e"
+  },
+  "domain": "j200mlivertp.skin",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd99"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b2f"
+  },
+  "domain": "tiket300vip.bond",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "ADS CT",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b30"
+  },
+  "domain": "top111mantap.homes",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb9"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b31"
+  },
+  "domain": "y200m-vip.beauty",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9b"
+  },
+  "note": "ADS CR",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b32"
+  },
+  "domain": "k200m-amp.homes",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd95"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b33"
+  },
+  "domain": "k200m-vip.monster",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd95"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b34"
+  },
+  "domain": "sgcplayhoki.makeup",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda5"
+  },
+  "note": "ADS CR MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b35"
+  },
+  "domain": "k200mrtp.cyou",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd95"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b36"
+  },
+  "domain": "sgcvip-hoki.website",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda7"
+  },
+  "note": "ADS CR MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b37"
+  },
+  "domain": "sgcwin77zeus.live",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda1"
+  },
+  "note": "ADS CR MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b38"
+  },
+  "domain": "sgcwin88zeus.sbs",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda3"
+  },
+  "note": "ADS DEDY / ADS CT / ADS CR MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b39"
+  },
+  "domain": "madura88-amp.sbs",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc7"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b3a"
+  },
+  "domain": "madura88gas.hair",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc7"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b3b"
+  },
+  "domain": "lifertp-madura88.homes",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc7"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b3c"
+  },
+  "domain": "nusa-hp.space",
+  "brand": {
+    "$oid": "6986f98cba2073a29cb7fdc9"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b3d"
+  },
+  "domain": "nusa211-vip.digital",
+  "brand": {
+    "$oid": "6986f98cba2073a29cb7fdc9"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b3f"
+  },
+  "domain": "rtpnusa211-life.click",
+  "brand": {
+    "$oid": "6986f98cba2073a29cb7fdc9"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b40"
+  },
+  "domain": "p200m-hp.online",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd97"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b41"
+  },
+  "domain": "p200m.io",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd97"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b42"
+  },
+  "domain": "p200mlivertp.rest",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd97"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b43"
+  },
+  "domain": "paduka-hp.beauty",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdbb"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b44"
+  },
+  "domain": "paduka500-king.xyz",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdbb"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b45"
+  },
+  "domain": "rtp-lifepaduka500.makeup",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdbb"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b46"
+  },
+  "domain": "p2m-amp.cloud",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9d"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b47"
+  },
+  "domain": "pasti200m-vip.cam",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9d"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b48"
+  },
+  "domain": "rtp-livepasti200m.quest",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9d"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b49"
+  },
+  "domain": "raja100-hp.click",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb7"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b4a"
+  },
+  "domain": "raja100-panas.icu",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb7"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b4b"
+  },
+  "domain": "rtpraja100live.monster",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb7"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b4c"
+  },
+  "domain": "sgcplay-hp.click",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda5"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b4d"
+  },
+  "domain": "rtpsgcplay-hoki.beauty",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda5"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b4e"
+  },
+  "domain": "lifertp-sgcvip.click",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda7"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b4f"
+  },
+  "domain": "vip-amp.icu",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda7"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b50"
+  },
+  "domain": "sgcwin-hp.shop",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9f"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b51"
+  },
+  "domain": "sgcwin-huat.boats",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9f"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b52"
+  },
+  "domain": "rtp-sgcwin-live.boats",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9f"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b53"
+  },
+  "domain": "rtpsgcwin77live.quest",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda1"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b54"
+  },
+  "domain": "sgc77-hp.rest",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda1"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b55"
+  },
+  "domain": "sgcwin88-hp.boats",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda3"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b56"
+  },
+  "domain": "lifesgcwin88rtp.quest",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda3"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b57"
+  },
+  "domain": "sgcwin88zeus.yachts",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda3"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b58"
+  },
+  "domain": "super89-hp.autos",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb5"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b59"
+  },
+  "domain": "super89-mega.hair",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb5"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b5a"
+  },
+  "domain": "rtp-super89live.boats",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb5"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b5b"
+  },
+  "domain": "tiket100hp.click",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b5c"
+  },
+  "domain": "tiket100.site",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b5d"
+  },
+  "domain": "tiket200-hp.cfd",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b5e"
+  },
+  "domain": "tiket300-hp.cfd",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b5f"
+  },
+  "domain": "tiket300.club",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b60"
+  },
+  "domain": "top111-amp.skin",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb9"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b61"
+  },
+  "domain": "top111slot.cyou",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb9"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b62"
+  },
+  "domain": "top111livertp.bond",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb9"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b63"
+  },
+  "domain": "y200mrtplive.boats",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9b"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b64"
+  },
+  "domain": "y200m-amp.skin",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9b"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b65"
+  },
+  "domain": "y200m-2025.tattoo",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9b"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b66"
+  },
+  "domain": "paduka500-vip.online",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdbb"
+  },
+  "note": "ADS CUTT.LY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b67"
+  },
+  "domain": "pasti200mpasti.site",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9d"
+  },
+  "note": "ADS CUTT.LY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b68"
+  },
+  "domain": "tiket100.website",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "ADS DEDY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b69"
+  },
+  "domain": "jos007livertp.beauty",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc1"
+  },
+  "note": "RTP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b6a"
+  },
+  "domain": "jos-hp.sbs",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc1"
+  },
+  "note": "AMP",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b6b"
+  },
+  "domain": "tiket200.digital",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "ADS KO DEDY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b6c"
+  },
+  "domain": "tiket200oke.online",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "ADS KO DEDY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.391Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9b6d"
+  },
+  "domain": "jos007-slot.cam",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdc1"
+  },
+  "note": "MONEYSITE",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.391Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9bdc"
+  },
+  "domain": "lovesgcplay.com",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda5"
+  },
+  "note": "CANONICAL",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.518Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9bdf"
+  },
+  "domain": "top111slot.com",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb9"
+  },
+  "note": "CANONICAL",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.518Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870c2a979295b42b1c9be5"
+  },
+  "domain": "supermaniacuan.xyz",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fd9d"
+  },
+  "note": "DOMAIN ADS DEDY",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:55:54.518Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:55:54.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256d1"
+  },
+  "domain": "ikutalur.live/asia200-05-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.384Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.384Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256d2"
+  },
+  "domain": "bocahtengil.site/asia200-05-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:52:10.067Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:52:10.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256d3"
+  },
+  "domain": "makanbang.link/meelletuuss",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256d4"
+  },
+  "domain": "luarnalar.top/a200-05-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256d5"
+  },
+  "domain": "abongtuktuk.site/yukkk",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.cloud (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:43:34.374Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:43:34.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256d6"
+  },
+  "domain": "kilasinfo.life/a200-05-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256d7"
+  },
+  "domain": "iniaja.link/ar08yto",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "tiket100.website (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256d8"
+  },
+  "domain": "tiktikbong.link/f200-05-01-2026",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256d9"
+  },
+  "domain": "patenaja.link/sej0f4s",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "tiket100.website (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256da"
+  },
+  "domain": "tanamubi.link/menyalaa",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.cloud (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256db"
+  },
+  "domain": "tancapgas.website/f200-05-01-2026",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256dc"
+  },
+  "domain": "cariyangpasti.fun/f200-05-01-2026",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256dd"
+  },
+  "domain": "akunkhusus.live/tiket100",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "tiket100.website (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:44:28.995Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:44:28.998Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256de"
+  },
+  "domain": "seratus.live/a100-is-back",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256df"
+  },
+  "domain": "bosmuda.link/f200-05-01-2026",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:53:50.067Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:53:50.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256e0"
+  },
+  "domain": "caeraja.link/45ia7po",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "tiket100.website (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256e1"
+  },
+  "domain": "tanamsayur.link/a100-eeee-aaaaa",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256e2"
+  },
+  "domain": "semakindidepan.top/f200-05-01-2026",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256e3"
+  },
+  "domain": "caeraja.link/olf9me1",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "tiket100.website (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256e4"
+  },
+  "domain": "sayanganak.fun/a100-lagi-sayang-sayangnya",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256e5"
+  },
+  "domain": "idvip.co/gntzyz6",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200oke.hair  (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256e6"
+  },
+  "domain": "mantapbener.life/f200-06-01-2026",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256e7"
+  },
+  "domain": "makanbang.link/a100-lagi-bagi-bagi-nih",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256e8"
+  },
+  "domain": "vipaja.link/khususvip",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "tiket100.website (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256e9"
+  },
+  "domain": "idvip.co/hidup-tak-sependek-p3nis-laki-laki",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "tiket100.website (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256ea"
+  },
+  "domain": "seleralelaki.site/f200-07-01-2026",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256eb"
+  },
+  "domain": "enakbanget.top/a100-anda-pasti-terpukau",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256ec"
+  },
+  "domain": "akunkhusus.live/vip100",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "tiket100.website (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:44:54.194Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:44:54.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256ed"
+  },
+  "domain": "puasbanget.link/f200-07-01-2026",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256ee"
+  },
+  "domain": "buktibukanjanji.live/f200-07-01-2026",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256ef"
+  },
+  "domain": "yaudainiaja.com/vip",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "tiket100.website (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256f0"
+  },
+  "domain": "yangtauaja.click/f200-07-01-2026",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256f1"
+  },
+  "domain": "rasanikmat.live/a100-ceo-muda-berpengalaman",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256f2"
+  },
+  "domain": "tariktambang.site/a100-07-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256f3"
+  },
+  "domain": "kelasking.site/a100-menyala-tor-monitor",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256f4"
+  },
+  "domain": "doaibu.life/a100-07-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256f5"
+  },
+  "domain": "ketualimpol.life/a100-07-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256f6"
+  },
+  "domain": "bangjago.link/a100-termantap-123789",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:50:55.632Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:50:55.633Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256f7"
+  },
+  "domain": "ampunbangjago.cfd/a100-07-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:45:30.317Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:45:30.320Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256f8"
+  },
+  "domain": "bosmaen.fun/asia100-terpaten-punya-12345",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:53:37.955Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:53:37.957Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256f9"
+  },
+  "domain": "iniaja.link/vip",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdaf"
+  },
+  "note": "tiket100.website (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256fa"
+  },
+  "domain": "bukanpewaris.top/a100-07-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256fb"
+  },
+  "domain": "bociljago.live/asia100-sudah-memberikan-wd-168",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:52:35.336Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:52:35.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256fc"
+  },
+  "domain": "pinjamseratus.icu/a100-09-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256fd"
+  },
+  "domain": "iniaja.link/rwlxsrm",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200oke.hair (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256fe"
+  },
+  "domain": "siapbos.top/asia100-yang-paling-mantap-999",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b256ff"
+  },
+  "domain": "hiburanpria.wiki/a100-09-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25700"
+  },
+  "domain": "jagohack.top/asia100-sudah-kasih-yang-terbaik-123",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25701"
+  },
+  "domain": "juragangalon.cyou/a100-09-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25702"
+  },
+  "domain": "tukangkepo.sbs/asia100-yang-paling-terpercaya",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25704"
+  },
+  "domain": "bocahperintis.sbs/a100-10-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:51:58.131Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:51:58.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25705"
+  },
+  "domain": "pemainlama.live/asia100-sudah-melakukan-wd-di-kamu-123",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25706"
+  },
+  "domain": "calonceo.bond/a100-11-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25707"
+  },
+  "domain": "anakemas.fun/u2pspsp",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:45:58.075Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:45:58.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25708"
+  },
+  "domain": "akunkhusus.live/tiket200",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:44:42.031Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:44:42.032Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25709"
+  },
+  "domain": "pesawattempur.fun/f200-11-01-2026",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.online (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2570a"
+  },
+  "domain": "abongtuktuk.site/alrkfoa",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:43:23.279Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:43:23.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2570b"
+  },
+  "domain": "vipaja.link/fzg0ic4",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.519Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2570c"
+  },
+  "domain": "kelasatas.sbs/a100-13-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2570d"
+  },
+  "domain": "akunkhusus.live/w8r6oqx",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:45:17.638Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:45:17.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2570e"
+  },
+  "domain": "bocahcilik.link/seratus",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:51:18.933Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:51:18.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2570f"
+  },
+  "domain": "semogabahagia.link/a200-15-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25710"
+  },
+  "domain": "tambangemas.online/a200-15-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25711"
+  },
+  "domain": "vipaja.link/khusus",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25712"
+  },
+  "domain": "tanamsayur.link/monitor",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100.digital (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25713"
+  },
+  "domain": "akunkhusus.live/pertama",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:44:11.293Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:44:11.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25714"
+  },
+  "domain": "anggotavip.live/a200-15-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:46:11.315Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:46:11.317Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25715"
+  },
+  "domain": "idvip.co/tiket200vip",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25716"
+  },
+  "domain": "infoterbaru.lol/a200-15-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25717"
+  },
+  "domain": "iniaja.link/qwkdaor",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25718"
+  },
+  "domain": "duaratus.link/cr",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.digital (ADS CR)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25719"
+  },
+  "domain": "caeraja.link/mepmlki",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.mom (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2571a"
+  },
+  "domain": "vipaja.link/dh9zwog",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda3"
+  },
+  "note": "sgcwin88zeus.sbs (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2571b"
+  },
+  "domain": "seratus.live/g500",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CR)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2571c"
+  },
+  "domain": "idvip.co/oj6hjie",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda3"
+  },
+  "note": "sgcwin88zeus.sbs (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2571d"
+  },
+  "domain": "gayaelit.life/a200-17-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2571e"
+  },
+  "domain": "caeraja.link/vip88",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda3"
+  },
+  "note": "sgcwin88zeus.sbs (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2571f"
+  },
+  "domain": "seratus.live/g63",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.beauty (ADS CR)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25720"
+  },
+  "domain": "iniaja.link/builurn",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda3"
+  },
+  "note": "sgcwin88zeus.sbs (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25721"
+  },
+  "domain": "kelasreceh.cfd/a200-17-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25722"
+  },
+  "domain": "calonmantu.icu/a200-17-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25723"
+  },
+  "domain": "iniaja.link/3d16n1d",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdbf"
+  },
+  "note": "fufuslot-cair.live (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25724"
+  },
+  "domain": "tenangbro.link/seratus",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.beauty (ADS CR)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25725"
+  },
+  "domain": "patenaja.link/ef7omfz",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25726"
+  },
+  "domain": "bocahtopui.link/seratus",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.beauty (ADS CR)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:52:23.628Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:52:23.630Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25727"
+  },
+  "domain": "akunkhusus.live/vipf200m",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:45:05.078Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:45:05.079Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25728"
+  },
+  "domain": "iniaja.link/e2dupxw",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25729"
+  },
+  "domain": "patenaja.link/dtddyg1",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200oke.hair (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2572a"
+  },
+  "domain": "vipaja.link/sgihbpd",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.cloud (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2572b"
+  },
+  "domain": "yaudainiaja.com/yoqulso",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200oke.hair (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2572c"
+  },
+  "domain": "idvip.co/vip200",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.cloud (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2572d"
+  },
+  "domain": "iniaja.link/b7ffhxv",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.cloud (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2572e"
+  },
+  "domain": "vipaja.link/gthvm4c",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.cloud (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2572f"
+  },
+  "domain": "idvip.co/viprtp",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25730"
+  },
+  "domain": "caeraja.link/khusus-vip",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25731"
+  },
+  "domain": "idvip.co/jamfaj9",
+  "brand": {
+    "$oid": "6986f98aba2073a29cb7fd90"
+  },
+  "note": "f200m-vip.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.522Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.522Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25732"
+  },
+  "domain": "patenaja.link/vip100",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.522Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.522Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25733"
+  },
+  "domain": "akunkhusus.live/0a9pszp",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:43:45.631Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.522Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:43:45.632Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25734"
+  },
+  "domain": "yaudainiaja.com/paujios",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100.digital (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.522Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.522Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25735"
+  },
+  "domain": "pusathiburan.website/a200-menyala-punya",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.522Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.522Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25737"
+  },
+  "domain": "anakemas.fun/t300-sudah-melakukan-perkalian-1235x",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "tiket300.icu (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:45:42.838Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:45:42.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25738"
+  },
+  "domain": "zonapemberani.site/hanya-yang-berani",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25739"
+  },
+  "domain": "jayaketua.com/t300-is-the-best-of-the-best-123",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "tiket300.icu (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2573a"
+  },
+  "domain": "masjawa.life/t300-yang-terbaik-terus-032709",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "tiket300.yachts (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2573b"
+  },
+  "domain": "akunkhusus.live/link-khusus-vip",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.mom (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:44:00.354Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:44:00.356Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2573c"
+  },
+  "domain": "bocahkecil.link/tigaratus",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "tiket300.yachts (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:51:44.551Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:51:44.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2573d"
+  },
+  "domain": "bocahcilik.link/tigaratus",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "tiket300.yachts (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:51:31.820Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:51:31.820Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2573e"
+  },
+  "domain": "caeraja.link/wjtrbwf",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200oke.online (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b2573f"
+  },
+  "domain": "tebangkayu.link/meledakkk",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "tiket300.yachts (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25740"
+  },
+  "domain": "maindulu.top/khusus-pemberani-punya",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25741"
+  },
+  "domain": "jayaketua.com/tiket300-jaya-jaya-jaya",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb3"
+  },
+  "note": "tiket300.yachts (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25742"
+  },
+  "domain": "arenabermain.life/menyala-queen-and-king",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda9"
+  },
+  "note": "asia100-app.hair (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "tidak ada",
+    "blockedId": null,
+    "lastChecked": {
+      "$date": "2026-02-07T10:46:22.688Z"
+    }
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T10:46:22.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25743"
+  },
+  "domain": "iniaja.link/lma0527",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.skin (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25744"
+  },
+  "domain": "jagohack.top/yjbu16z",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdb1"
+  },
+  "note": "tiket200oke.site (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25745"
+  },
+  "domain": "caeraja.link/5nig2az",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fda3"
+  },
+  "note": "sgcwin88zeus.sbs (ADS DD)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.628Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69870cd372abbaddb3b25746"
+  },
+  "domain": "markasfun.link/a200-05-01-2026",
+  "brand": {
+    "$oid": "6986f98bba2073a29cb7fdab"
+  },
+  "note": "asia200vip.today (ADS CT)",
+  "uptime": {
+    "status": "unknown"
+  },
+  "nawala": {
+    "status": "unknown"
+  },
+  "cloudflare": {
+    "status": "unknown"
+  },
+  "google": {
+    "status": "unknown"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "updatedBy": {
+    "$oid": "6986e723f1a521353366066f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-07T09:58:43.628Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T09:58:43.628Z"
+  }
+}]
