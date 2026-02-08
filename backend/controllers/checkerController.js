@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const Domain = require('../models/Domain');
+const axios = require('axios');
 
 // @desc    Get all domains for checking system
 // @route   GET /api/urls
@@ -184,5 +185,43 @@ exports.bulkUpdateUrlStatus = async (req, res, next) => {
     });
   } catch (error) {
     next(error);
+  }
+};
+
+// @desc    Proxy bulk check request to external checker (server-side)
+// @route   POST /api/urls/bulk-check
+// @access  Protected (frontend should call this)
+exports.bulkCheck = async (req, res, next) => {
+  try {
+    const { urls, mode } = req.body;
+
+    if (!Array.isArray(urls) || urls.length === 0) {
+      return res.status(400).json({ success: false, message: 'urls array is required' });
+    }
+
+    const checkerUrl = process.env.CHECKER_BULK_ENDPOINT || 'http://192.168.10.140:5000/api/bulk-check';
+
+    // Ensure server-side checker API key is configured to avoid forwarding 401s
+    if (!process.env.CHECKER_API_KEY) {
+      console.warn('bulkCheck attempted but CHECKER_API_KEY is not configured on server');
+      return res.status(500).json({ success: false, message: 'Checker API key not configured on server' });
+    }
+
+    // Build payload with server-side API key
+    const payload = {
+      urls,
+      mode: mode || 'official',
+      apiKey: process.env.CHECKER_API_KEY
+    };
+
+    const response = await axios.post(checkerUrl, payload, { timeout: 60000 });
+
+    // Forward the external checker response to the frontend
+    return res.status(response.status).json(response.data);
+  } catch (error) {
+    console.error('Bulk check proxy error:', error.message || error);
+    const status = error.response?.status || 500;
+    const data = error.response?.data || { success: false, message: 'Checker request failed' };
+    return res.status(status).json(data);
   }
 };

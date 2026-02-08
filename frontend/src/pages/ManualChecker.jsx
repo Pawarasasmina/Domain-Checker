@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import axios from 'axios';
+import axios from '../utils/axios';
 import toast from 'react-hot-toast';
 import { CheckCircle, XCircle, Search, Loader, ExternalLink } from 'lucide-react';
 
@@ -29,8 +29,7 @@ const ManualChecker = () => {
     setResults(null);
 
     try {
-      const response = await axios.post('http://192.168.10.140:5000/api/bulk-check', {
-        apiKey: 'abcdef123',
+      const response = await axios.post('/urls/bulk-check', {
         urls: domainList,
         mode: 'official'
       });

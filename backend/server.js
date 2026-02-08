@@ -17,6 +17,7 @@ const authRoutes = require('./routes/authRoutes');
 const brandRoutes = require('./routes/brandRoutes');
 const domainRoutes = require('./routes/domainRoutes');
 const checkerRoutes = require('./routes/checkerRoutes');
+const logRoutes = require('./routes/logRoutes');
 
 // Initialize Express app
 const app = express();
@@ -101,6 +102,7 @@ app.use('/api/auth', authRoutes);
 app.use('/api/brands', brandRoutes);
 app.use('/api/domains', domainRoutes);
 app.use('/api/urls', checkerRoutes);
+app.use('/api/logs', logRoutes);
 
 // Health check route
 app.get('/health', (req, res) => {

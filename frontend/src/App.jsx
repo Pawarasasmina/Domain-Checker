@@ -1,3 +1,4 @@
+import AdminLogs from './pages/AdminLogs';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { Toaster } from 'react-hot-toast';
 import { AuthProvider } from './context/AuthContext';
@@ -80,6 +81,17 @@ function App() {
               <ProtectedRoute adminOnly={true}>
                 <Layout>
                   <Users />
+                </Layout>
+              </ProtectedRoute>
+            }
+          />
+
+          <Route
+            path="/admin-logs"
+            element={
+              <ProtectedRoute adminOnly={true}>
+                <Layout>
+                  <AdminLogs />
                 </Layout>
               </ProtectedRoute>
             }

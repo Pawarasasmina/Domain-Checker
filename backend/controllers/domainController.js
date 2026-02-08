@@ -1,5 +1,6 @@
 const Domain = require('../models/Domain');
 const Brand = require('../models/Brand');
+const DomainLog = require('../models/DomainLog');
 
 // @desc    Create new domain
 // @route   POST /api/domains
@@ -32,6 +33,14 @@ exports.createDomain = async (req, res, next) => {
     if (req.app.get('io')) {
       req.app.get('io').emit('domain:created', newDomain);
     }
+
+    // Log domain creation
+    await DomainLog.create({
+      domain: newDomain.domain,
+      action: 'add',
+      user: req.user._id,
+      timestamp: new Date()
+    });
 
     res.status(201).json({
       success: true,
@@ -247,6 +256,14 @@ exports.deleteDomain = async (req, res, next) => {
       });
     }
 
+    // Log domain deletion
+    await DomainLog.create({
+      domain: domain.domain,
+      action: 'delete',
+      user: req.user._id,
+      timestamp: new Date()
+    });
+
     await domain.deleteOne();
 
     // Emit socket event for real-time update
@@ -282,6 +299,14 @@ exports.deleteAllBlockedDomains = async (req, res, next) => {
 
     // Delete all blocked domains
     await Domain.deleteMany({ 'nawala.status': 'ada' });
+
+    // Log each blocked domain deletion
+    await Promise.all(blockedDomains.map(d => DomainLog.create({
+      domain: d.domain,
+      action: 'delete',
+      user: req.user._id,
+      timestamp: new Date()
+    })));
 
     // Emit socket event for real-time update
     if (req.app.get('io')) {

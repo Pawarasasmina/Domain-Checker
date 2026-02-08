@@ -23,6 +23,7 @@ const Sidebar = () => {
     { name: 'Brands', path: '/brands', icon: Tag, adminOnly: false },
     { name: 'Manual Checker', path: '/manual-checker', icon: Search, adminOnly: false },
     { name: 'Users', path: '/users', icon: Users, adminOnly: true },
+    { name: 'Logs', path: '/admin-logs', icon: LayoutDashboard, adminOnly: true },
   ];
 
   const isActive = (path) => {
