@@ -26,7 +26,7 @@ const Home = () => {
       let usersCount = 0;
       if (isAdmin()) {
         try {
-          const usersRes = await api.get('/users');
+          const usersRes = await api.get('/auth/users');
           usersCount = usersRes.data.data?.length || 0;
         } catch (error) {
           console.error('Failed to fetch users:', error);

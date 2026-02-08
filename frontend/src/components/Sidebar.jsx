@@ -63,7 +63,7 @@ const Sidebar = () => {
         <div className="flex flex-col h-full">
           {/* Logo */}
           <div className="flex items-center justify-center h-20 border-b border-gray-800">
-            <h1 className="text-xl font-bold">200m.website</h1>
+            <h1 className="text-xl font-bold">Link Checker</h1>
           </div>
 
           {/* User info */}

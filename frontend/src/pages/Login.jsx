@@ -29,7 +29,7 @@ const Login = () => {
         <div className="bg-white rounded-2xl shadow-2xl p-8">
           {/* Logo */}
           <div className="text-center mb-8">
-            <h1 className="text-3xl font-bold text-gray-900 mb-2">200m.website</h1>
+            <h1 className="text-3xl font-bold text-gray-900 mb-2">Link Checker</h1>
             <p className="text-gray-600">Domain Management Dashboard</p>
           </div>
 
