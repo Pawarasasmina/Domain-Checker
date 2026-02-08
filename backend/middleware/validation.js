@@ -72,7 +72,7 @@ exports.domainValidation = [
     .trim()
     .notEmpty().withMessage('Domain name is required')
     .toLowerCase()
-    .matches(/^[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,}$/).withMessage('Please provide a valid domain name'),
+    .matches(/^[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,}(\/[a-z0-9\-._~:/?#[\]@!$&'()*+,;=%]*)?$/i).withMessage('Please provide a valid domain name'),
   body('brand')
     .notEmpty().withMessage('Brand is required')
     .isMongoId().withMessage('Invalid brand ID'),

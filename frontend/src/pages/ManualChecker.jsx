@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import axios from 'axios';
 import toast from 'react-hot-toast';
-import { CheckCircle, XCircle, Search, Loader } from 'lucide-react';
+import { CheckCircle, XCircle, Search, Loader, ExternalLink } from 'lucide-react';
 
 const ManualChecker = () => {
   const [domains, setDomains] = useState('');
@@ -140,7 +140,20 @@ const ManualChecker = () => {
                 {results.results.map((result, index) => (
                   <tr key={index} className="hover:bg-gray-50">
                     <td className="text-sm">{index + 1}</td>
-                    <td className="font-mono font-medium">{result.domain}</td>
+                    <td className="font-mono font-medium">
+                      <div className="flex items-center space-x-2">
+                        <span>{result.domain}</span>
+                        <a
+                          href={`https://${result.domain}`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-blue-600 hover:text-blue-800 transition-colors"
+                          title="Open domain in new tab"
+                        >
+                          <ExternalLink size={16} />
+                        </a>
+                      </div>
+                    </td>
                     <td>{getStatusBadge(result)}</td>
                     <td className="text-sm text-gray-600">{result.responseTime}ms</td>
                     <td>

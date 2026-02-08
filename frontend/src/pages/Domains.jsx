@@ -3,7 +3,7 @@ import { useAuth } from '../context/AuthContext';
 import { getSocket } from '../utils/socket';
 import api from '../utils/axios';
 import toast from 'react-hot-toast';
-import { Plus, Edit2, Trash2, Search, CheckCircle, XCircle, AlertCircle, Download, Upload } from 'lucide-react';
+import { Plus, Edit2, Trash2, Search, CheckCircle, XCircle, AlertCircle, Download, Upload, ExternalLink } from 'lucide-react';
 import { format } from 'date-fns';
 import { getBrandStyle } from '../utils/brandStyles';
 
@@ -635,7 +635,20 @@ const Domains = () => {
                       {domain.brand.code}
                     </span>
                   </td>
-                  <td className="font-medium text-sm">{domain.domain}</td>
+                  <td className="font-medium text-sm">
+                    <div className="flex items-center space-x-2">
+                      <span>{domain.domain}</span>
+                      <a
+                        href={`https://${domain.domain}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-600 hover:text-blue-800 transition-colors"
+                        title="Open domain in new tab"
+                      >
+                        <ExternalLink size={16} />
+                      </a>
+                    </div>
+                  </td>
                   <td className="text-xs text-gray-600 truncate max-w-32" title={domain.note}>
                     {domain.note || '-'}
                   </td>

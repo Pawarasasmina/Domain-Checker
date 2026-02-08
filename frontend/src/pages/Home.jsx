@@ -67,15 +67,19 @@ const Home = () => {
       icon: Activity,
       color: 'bg-red-500',
       link: '/domains'
-    },
-    {
+    }
+  ];
+
+  // Only show user count to admins
+  if (isAdmin()) {
+    statsCards.push({
       name: 'Total Users',
       value: stats.loading ? '...' : stats.totalUsers.toString(),
       icon: Users,
       color: 'bg-purple-500',
       link: '/users'
-    }
-  ];
+    });
+  }
 
   return (
     <div>
